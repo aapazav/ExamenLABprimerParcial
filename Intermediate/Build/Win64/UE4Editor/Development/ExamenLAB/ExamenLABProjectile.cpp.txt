@@ -1,0 +1,7 @@
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\Development\ExamenLAB\Definitions.ExamenLAB.h
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Source\ExamenLAB\ExamenLABProjectile.h
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\Inc\ExamenLAB\ExamenLABProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

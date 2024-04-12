@@ -1,0 +1,5 @@
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\Development\ExamenLAB\Definitions.ExamenLAB.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Source\ExamenLAB/Bomba.h
+G:\Ejercicio4_Examen_Laboratorio_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\Inc\ExamenLAB\Bomba.generated.h
